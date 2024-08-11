@@ -1,5 +1,5 @@
 # Description:
-This program is a streamlit web application that uses machine learning to predict Hashimoto's disease.  The algorithm it uses is random foerst.
+This program is a streamlit web application that uses machine learning to predict when someone is suffering from Hashimoto's by filling in the appropriate fields with the corresponding results from their blood tests.  T
 
 ## How to run:
 -Open your terminal
