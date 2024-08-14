@@ -11,3 +11,7 @@ This program is a streamlit web application that uses machine learning to predic
 You can test the program by clicking the link below:
 [Program Link](https://hashimotos-disease-prediction.onrender.com/)
 
+
+
+# Author:
+Kypros Andreou 
