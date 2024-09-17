@@ -30,8 +30,8 @@ def main():
         This web application helps in predicting Hashimoto's disease based on certain parameters.
         
         ### How to Use:
-        1. **Data Frame Tab**: View the dataset used for training and testing.
-        2. **Random Forest Algorithm Tab**: Visualize the dataset and see the accuracy of the Random Forest classifier.
+        1. **Data Frame Tab**: View and Visualize the dataset used for training and testing.
+        2. **Random Forest Algorithm Tab**: View the accuracy of the Random Forest classifier.
         3. **Hashimoto Prediction Tab**: Input your information and get a prediction about whether you have Hashimoto's disease or not.
         
         ### What is Hashimoto’s disease?
